@@ -32,7 +32,7 @@ A classic **Tic-Tac-Toe game** implemented as a web application using HTML, CSS,
 
 <p align="center">
   <img src="https://github.com/HENRY-AIFST/PRODIGY_WD_03/blob/main/dist/assest/cross1.png" alt="Tic-Tac-Toe UI" width="45%" />
-  <img src="https://github.com/HENRY" alt="Tic-Tac-Toe Win Screen" width="45%" />
+  <img src="https://github.com/HENRY-AIFST/PRODIGY_WD_03/blob/main/dist/assest/cross2.png" alt="Tic-Tac-Toe Win Screen" width="45%" />
 </p>
 
 ---

@@ -62,7 +62,8 @@ PRODIGY_WD_03/
 ```bash
 git clone https://github.com/HENRY-AIFST/PRODIGY_WD_03.git
 cd PRODIGY_WD_03
-open index.html ```
+open index.html
+```
 
 🌟 Future Enhancements
 🤖 Add single-player mode with basic AI
